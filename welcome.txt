@@ -1,0 +1,4 @@
+Hello Folks!
+
+This is the very first commit to GitHub to show the fundamentals of GitHub.
+Hope you like it :) 
